@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "guards": [
+    {
+      "id": "r3",
+      "added_at": 1791889586.1598191,
+      "role": "primary",
+      "fails": 0,
+      "down": false
+    },
+    {
+      "id": "r1",
+      "added_at": 1791889586.1598191,
+      "role": "primary",
+      "fails": 0,
+      "down": false
+    },
+    {
+      "id": "bob",
+      "added_at": 1791889586.1598191,
+      "role": "primary",
+      "fails": 0,
+      "down": false
+    },
+    {
+      "id": "r2",
+      "added_at": 1791889586.1598191,
+      "role": "backup",
+      "fails": 0,
+      "down": false
+    },
+    {
+      "id": "r4",
+      "added_at": 1791889586.1598191,
+      "role": "backup",
+      "fails": 0,
+      "down": false
+    }
+  ]
+}

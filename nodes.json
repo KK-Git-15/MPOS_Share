@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "alice",
+      "host": "172.20.10.3",
+      "port": 9100,
+      "pubkey": "8qCYPWF1d7ntW0V0uZLob8ITSZH8xiFf6RwFmsCEtnI=",
+      "roles": ["relay", "receiver"]
+    },
+    {
+      "id": "r0",
+      "host": "172.20.10.3",
+      "port": 9101,
+      "pubkey": "Jh+giPhNbyXI4nhp+dz0+e/TV71kNyG8aCYeyi01jGA=",
+      "roles": ["relay", "receiver"]
+    },
+    {
+      "id": "r1",
+      "host": "172.20.10.3",
+      "port": 9102,
+      "pubkey": "WuPdFJXGg+jPURXDaeSAtcrExxZ7k4i8WdT04D3scVQ=",
+      "roles": ["relay", "receiver"]
+    },
+    {
+      "id": "bob",
+      "host": "172.20.10.2",
+      "port": 9100,
+      "pubkey": "M8qhefjYIs5Zj6ctab7at2DJNXmEvMK1FAWDGXQUqEo=",
+      "roles": ["relay", "receiver"]
+    },
+    {
+      "id": "r2",
+      "host": "172.20.10.2",
+      "port": 9101,
+      "pubkey": "FBEgPyhNRnQs0CrlbHrXqyTWmBhFPgtFmfxZFvikGFQ=",
+      "roles": ["relay", "receiver"]
+    }
+  ]
+}
