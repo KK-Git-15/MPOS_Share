@@ -1,0 +1,2 @@
+[console_scripts]
+mpos = mpos.cli:main
